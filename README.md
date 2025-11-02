@@ -14,6 +14,7 @@ data-science-ai-projects/
 ├── .gitignore
 ├── LICENSE
 ├── CONTRIBUTING.md
+├── requirements.txt
 ├── projects/
 │   ├── 01-beginner/
 │   │   ├── basic-eda-titanic/
@@ -32,9 +33,13 @@ data-science-ai-projects/
 │       └── computer-vision-object-detection/
 ├── ai-agent-prompts/
 │   ├── project-enhancement/
+│   │   └── README.md
 │   ├── debugging-helpers/
+│   │   └── README.md
 │   ├── code-optimization/
+│   │   └── README.md
 │   └── feature-expansion/
+│       └── README.md
 ├── datasets/
 │   ├── README.md
 │   └── data-sources.md
@@ -85,57 +90,27 @@ pip install -r requirements.txt
 - **Customer Churn Prediction**: Business analytics and ML
 - **Image Classification CNN**: Deep learning with computer vision
 
-### Advanced Projects (03-advanced/)
-- **NLP Chatbot**: Advanced natural language processing
-- **Time Series Forecasting**: Advanced forecasting techniques
-- **Recommendation System Advanced**: Deep learning recommendations
-- **Computer Vision Object Detection**: Advanced CV applications
-
 ## 🤖 AI Agent Prompts
 
 Each project includes AI agent prompts in the `ai-agent-prompts/` directory to help you:
-- **Enhance projects** with additional features
-- **Debug issues** efficiently
-- **Optimize code** performance
-- **Expand functionality** creatively
+- Enhance projects with additional features
+- Debug issues efficiently
+- Optimize code performance
+- Expand functionality creatively
 
 ## 📈 Learning Path
 
-1. **Start with Beginner Projects**: Build foundational skills
-2. **Progress to Intermediate**: Apply advanced concepts
-3. **Tackle Advanced Projects**: Master complex implementations
-4. **Use AI Agent Prompts**: Enhance and expand your projects
+1. Start with Beginner Projects: Build foundational skills
+2. Progress to Intermediate: Apply advanced concepts
+3. Use AI Agent Prompts: Enhance and expand your projects
 
 ## 🛠️ Each Project Includes
 
-- 📄 **Complete Python Code**: Well-commented and structured
-- 📊 **Dataset Links**: Easy access to required data
-- 📋 **requirements.txt**: Project-specific dependencies
-- 📖 **README.md**: Detailed project documentation
-- 🤖 **AI Agent Prompts**: Enhancement and debugging assistance
-- 📚 **Learning Objectives**: Clear skill development goals
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Data science community for inspiration
-- Open source dataset providers
-- Contributors and maintainers
-
-## 📞 Support
-
-If you have questions or need help:
-- Open an issue on GitHub
-- Check the [troubleshooting guide](resources/troubleshooting.md)
-- Review project-specific README files
-
----
+- Complete Python Code
+- Dataset Links
+- requirements.txt
+- README.md
+- AI Agent Prompts
+- Learning Objectives
 
 **Happy Learning! 🚀📊🤖**
